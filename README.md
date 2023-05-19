@@ -1,2 +1,1 @@
-# BlockSecureCert
-Blockchain based certificates 
+# blockSecureCert
